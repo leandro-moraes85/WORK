@@ -8,7 +8,7 @@ This space contains some of my past works.
 
 I intent to use it as means to control some of my development, to show my knowledge and store my experiences.
 
-Here you can find not only my code, but also some demonstration of my effort to combine administration and technical knowledge for projects that are not specifically developed for the IT market (ie. data analyses, logistics, sales, food service, etc). 
+Here you can find not only my code, but also some demonstration of my effort to combine administration and technical knowledge for projects that are not specifically developed for the IT market (eg. data analyses, logistics, sales, food service, etc). 
 
 
 
